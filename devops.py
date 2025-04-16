@@ -1,3 +1,3 @@
 def hello():
-    print("hello developper, I am the product owner")
-
+    print("hello developper, I am the scrum master!")
+    
